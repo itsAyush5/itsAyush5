@@ -27,9 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Upcoming Projects :
 
-- Library Management System :-
+1. Library Management System :-
   > A basic Java + MySQL system to manage books, HTML,CSS & JS for frontend.  
   > Features planned: issue/return, login system, admin dashboard.
-- To-Do List WebApp :-
+2. To-Do List WebApp :-
   > A basic webapp using HTML,CSS & JS
-  > Features planned: add list, delete list, divide list by category. 
+  > Features planned: add list, delete list, divide list by category.
+  
