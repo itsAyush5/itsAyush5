@@ -30,8 +30,4 @@ You can click the Preview link to take a look at your changes.
 1. Library Management System (In Progress) :-
   > A basic Java + MySQL system to manage books, HTML,CSS & JS for frontend.  
   > Features planned: issue/return, login system, admin dashboard.
-
-2. To-Do List WebApp (In Progress) :-
-  > A basic webapp using HTML,CSS & JS &
-  > Features planned: add list, delete list, divide list by category.
   
