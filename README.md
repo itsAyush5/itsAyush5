@@ -25,9 +25,10 @@ You can click the Preview link to take a look at your changes.
           
 </p>
 
-<!---## Upcoming Projects :
+## Upcoming Projects :
+<p>No Upcoming Projects Yet...</p>
 
-1. Library Management System (In Progress) :-
+<!----1. Library Management System (In Progress) :-
   > A basic Java + MySQL system to manage books, HTML,CSS & JS for frontend.  
   > Features planned: issue/return, login system, admin dashboard.----->
   
