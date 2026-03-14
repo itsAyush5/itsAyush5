@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 ## Upcoming Projects :
 <!-- <p>No Upcoming Projects Yet...</p> -->
 
-1. NexConvert - Tools : 
+1. Nexify : 
   > A platform where we can do various file conversions.  
  <!--- > Features planned: Various File types supported. --->
   
