@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node Js" width="60" height="60"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="60" height="60"/>
@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Upcoming Projects :
-<p>No Upcoming Projects Yet...</p>
+<!-- <p>No Upcoming Projects Yet...</p> -->
 
-<!----1. Library Management System (In Progress) :-
-  > A basic Java + MySQL system to manage books, HTML,CSS & JS for frontend.  
-  > Features planned: issue/return, login system, admin dashboard.----->
+1. NexConvert - Tools : 
+  > A platform where we can do various file conversions.  
+ <!--- > Features planned: Various File types supported. --->
   
