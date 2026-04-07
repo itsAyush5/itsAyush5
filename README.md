@@ -46,4 +46,5 @@ You can click the Preview link to take a look at your changes.
 1. Nexify : 
   > A platform where we can do various file conversions.  
  <!--- > Features planned: Various File types supported. --->
-  
+2. Klyro - AI Assistant :
+  > A AI platform where we can ask questions,get coding answers and much more...
