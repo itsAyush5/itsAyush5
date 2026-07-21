@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsAyush5 (Ayush Kunkulol)
-- 👀 I’m interested in Coding and fun code activities....
-- 🌱 I’m currently learning Full Stack course.
+- 👀 I’m interested in Coding and fun code activities.
+- 🌱 I’m a Full Stack Developer.
 - 📫 How to reach me: You Can Reach me through my Linkedin Profile which is given in my github account or you can connect me on Instagram (@ayush_kunkulol_)....
 - 😄 Pronouns:He/Him ...
 <!--- 💞️ I’m looking to collaborate on ...--->
@@ -36,9 +36,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60"/>
 </p>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/> -->
- 
+
+<b>5. Version Control :</b>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"/>
+</p>
+
           
 </p>
 
